@@ -1,0 +1,5 @@
+name: AutoDefaultGroup
+version: 1.0
+main: me.autodefaultgroup.AutoDefaultGroup
+api-version: 1.20
+depend: [LuckPerms]
